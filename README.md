@@ -1,3 +1,5 @@
+[![Sonar](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml/badge.svg?branch=main)](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml)
+
 Symfony Demo Application
 ========================
 
