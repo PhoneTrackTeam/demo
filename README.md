@@ -53,8 +53,3 @@ Execute this command to run tests:
 $ cd my_project/
 $ ./bin/phpunit
 ```
-
-[1]: https://symfony.com/doc/current/best_practices.html
-[2]: https://symfony.com/doc/current/reference/requirements.html
-[3]: https://symfony.com/doc/current/cookbook/configuration/web_server_configuration.html
-[4]: https://symfony.com/download
