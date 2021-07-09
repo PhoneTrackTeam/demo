@@ -1,4 +1,4 @@
-[![Sonar](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml/badge.svg?branch=main)](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml)
+[![Sonar](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml/badge.svg?branch=main)](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml) [![Lint](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml/badge.svg)](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml)
 
 Symfony Demo Application
 ========================
