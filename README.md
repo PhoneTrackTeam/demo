@@ -1,4 +1,4 @@
-[![Sonar](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml/badge.svg?branch=main)](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml) [![Lint](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml/badge.svg)](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml)
+[![Sonar](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml/badge.svg?branch=main)](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml) [![Lint](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml/badge.svg)](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml) [![Build Status](https://teamcity.phonetrack.com.br/app/rest/builds/buildType:(id:Demo_Build)/statusIcon.svg)](http://teamcity.phonetrack.com.br/viewType.html?buildTypeId=Demo_Build&guest=1)
 
 Symfony Demo Application
 ========================
