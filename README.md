@@ -1,6 +1,4 @@
-[![Sonar](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml/badge.svg?branch=main)](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml) [![Lint](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml/badge.svg)](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml) [![Deploy_Status](https://argocd.phonetrack.com.br/api/badge?name=audio-analysis&revision=true)](https://argocd.phonetrack.com.br/applications/audio-analysis)
-
-<img src="http://teamcity.phonetrack.com.br/app/rest/builds/buildType:(id:Demo_Build)/statusIcon"/>
+[![Sonar](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml/badge.svg?branch=main)](https://github.com/PhoneTrackTeam/demo/actions/workflows/sonar.yml) [![Lint](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml/badge.svg)](https://github.com/PhoneTrackTeam/demo/actions/workflows/lint.yaml) [![Build_Status](http://teamcity.phonetrack.com.br/app/rest/builds/buildType:(id:Demo_Build)/statusIcon)](https://teamcity.phonetrack.com.br/buildConfiguration/Demo_Build?mode=branches) [![Deploy_Status](https://argocd.phonetrack.com.br/api/badge?name=audio-analysis&revision=true)](https://argocd.phonetrack.com.br/applications/audio-analysis)
 
 Symfony Demo Application
 ========================
